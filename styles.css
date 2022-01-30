@@ -1,0 +1,24 @@
+body{
+
+    background-color: wheat;
+
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+.linkList{
+    
+    text-align: left;
+    width: 40%;
+    position:relative;
+    left: 30%;
+}
+
+a{
+    
+    font-size: x-large;
+    color: saddlebrown;
+}
