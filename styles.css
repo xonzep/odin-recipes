@@ -22,3 +22,19 @@ a{
     font-size: x-large;
     color: saddlebrown;
 }
+
+.emphasis{
+    text-align: center;
+    color: salmon;
+    font-style: italic;
+    font-size: large;
+}
+
+.imgCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 70%;
+
+}
